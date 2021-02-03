@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "180059474411",
+    "firebase_url": "https://workersjobportal.firebaseio.com",
+    "project_id": "workersjobportal",
+    "storage_bucket": "workersjobportal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180059474411:android:63933ba37ebad5055931ae",
+        "android_client_info": {
+          "package_name": "com.example.workers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180059474411-kdqgdqg30ikk5h2lc7qvtr81mgaccep3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.workers",
+            "certificate_hash": "8b3b2841d8c493616445e1676b3f416c9af7eabe"
+          }
+        },
+        {
+          "client_id": "180059474411-t202po5q20onicrv1sr8m5eruu9hv2tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA552shUykILXS7B_o4wTbvD0JNEK9UXyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180059474411-t202po5q20onicrv1sr8m5eruu9hv2tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
